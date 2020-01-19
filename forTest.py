@@ -1,10 +1,4 @@
-"""
-定义和使用时钟类
 
-Version: 0.1
-Author: 骆昊
-Date: 2018-03-08
-"""
 
 import time
 import os
